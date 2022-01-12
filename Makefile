@@ -1,5 +1,5 @@
 PKG_NAME := pypi-pycountry
-URL = https://files.pythonhosted.org/packages/76/73/6f1a412f14f68c273feea29a6ea9b9f1e268177d32e0e69ad6790d306312/pycountry-20.7.3.tar.gz
+URL = https://files.pythonhosted.org/packages/03/c4/2db520ae518156a88b419b2865d4fdc85fe78573948358f79dbaf0cf2b30/pycountry-22.1.10.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
