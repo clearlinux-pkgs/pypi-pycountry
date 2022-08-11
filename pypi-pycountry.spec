@@ -4,7 +4,7 @@
 #
 Name     : pypi-pycountry
 Version  : 22.3.5
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/33/24/033604d30f6cf82d661c0f9dfc2c71d52cafc2de516616f80d3b0600cb7c/pycountry-22.3.5.tar.gz
 Source0  : https://files.pythonhosted.org/packages/33/24/033604d30f6cf82d661c0f9dfc2c71d52cafc2de516616f80d3b0600cb7c/pycountry-22.3.5.tar.gz
 Summary  : ISO country, subdivision, language, currency and script definitions and their translations
