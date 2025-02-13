@@ -7,7 +7,7 @@
 #
 Name     : pypi-pycountry
 Version  : 24.6.1
-Release  : 17
+Release  : 18
 URL      : https://files.pythonhosted.org/packages/76/57/c389fa68c50590881a75b7883eeb3dc15e9e73a0fdc001cdd45c13290c92/pycountry-24.6.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/76/57/c389fa68c50590881a75b7883eeb3dc15e9e73a0fdc001cdd45c13290c92/pycountry-24.6.1.tar.gz
 Summary  : ISO country, subdivision, language, currency and script definitions and their translations
